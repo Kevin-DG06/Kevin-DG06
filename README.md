@@ -1,3 +1,4 @@
+## Olá meu nome é Kevin Duarte sou um DEV iniciante 🤓! 
 <div>
   <a href="https://github.com/Kevin-DG06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevin-DG06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
